@@ -7,6 +7,6 @@ Youtubeにある動画では、ArduinoIDEを古い物にする手順が公開さ
 調べてみると、stdio.hにfpos_tが定義されて、Marlinのfpos_tと名前空間がぶつかるのが原因のようでした。<p>
 パッチを追加して、ビルドと書き込みができることを確認しました。<p>
 
-Original:
-　　Firmware - Hictop 3d printer
-　　https://www.hic3dprinter.com/pages/firmware
+Original:<p>
+　　Firmware - Hictop 3d printer<p>
+　　https://www.hic3dprinter.com/pages/firmware<p>
